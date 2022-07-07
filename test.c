@@ -1,2 +1,6 @@
 TEST
+<<<<<<< HEAD
 LOCAL TEST
+=======
+WEB TEST
+>>>>>>> df21827a4642bf8d2030bcf461c88a70436feff1
